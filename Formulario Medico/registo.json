@@ -1,0 +1,32 @@
+[
+  {
+    "datosPersonales": {
+      "nombreCompleto": "Arowarlin",
+      "cedula": "40238396523",
+      "fechaNacimiento": "2004-02-20",
+      "telefono": "8092012490",
+      "direccion": "calle jose contrera 60 zona universitaria Distrito nacional"
+    },
+    "familiares": [
+      {
+        "nombre": "cesar Suarez",
+        "parentesco": "Padre",
+        "edad": "45"
+      }
+    ],
+    "condiciones": [
+      {
+        "enfermedad": "epilesia",
+        "tiempo": "25",
+        "tratamiento": "carbamasepina"
+      }
+    ],
+    "internamientos": [
+      {
+        "fecha": "2025-11-04",
+        "centroMedico": "Hospital Geberal",
+        "diagnostico": "insonio"
+      }
+    ]
+  }
+]
